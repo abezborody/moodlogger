@@ -1,6 +1,6 @@
 # MoodLogger
 
-## TODO
+## Actual roadmap:
 
 - [x] Init project
 - [ ] Add statemanager (effector), routing, auth
@@ -11,3 +11,5 @@
 - [ ] Stats view
 - [ ] Share logs feature
 - [ ] Telegram mini app implementation?
+- [ ] i18n
+- [ ] Light/Dark theme
